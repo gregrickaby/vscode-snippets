@@ -1,0 +1,54 @@
+{
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "all",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "files.trimTrailingWhitespace": true,
+    "window.zoomLevel": 1,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "search.useIgnoreFilesByDefault": true,
+    "php-docblocker.useShortNames": true,
+    "php.validate.enable": false,
+    "phpcs.ignore": "plugins",
+    "phpcs.standard": "/Users/gregrickaby/Utilities/WDS-Coding-Standards/WebDevStudios/ruleset.xml",
+    "sasslint.configFile": "/Users/gregrickaby/Utilities/WDS-Coding-Standards/WebDevStudios/.sass-lint.yml",
+    "sasslint.run": "onSave",
+    "eslint.options": {
+        "configFile": "/Users/gregrickaby/Utilities/WDS-Coding-Standards/WebDevStudios/.eslintrc.js"
+    },
+    "eslint.run": "onSave",
+    "eslint.autoFixOnSave": true,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/tmp": true
+      },
+      "search.exclude": {
+        "**/.git": true,
+        "**/tmp": true,
+        "**/node_modules": true,
+        "**/bower_components": true
+    },
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#C6FF00",
+        "list.activeSelectionForeground": "#C6FF00",
+        "list.inactiveSelectionForeground": "#C6FF00",
+        "list.highlightForeground": "#C6FF00",
+        "scrollbarSlider.activeBackground": "#C6FF0050",
+        "editorSuggestWidget.highlightForeground": "#C6FF00",
+        "textLink.foreground": "#C6FF00",
+        "progressBar.background": "#C6FF00",
+        "pickerGroup.foreground": "#C6FF00"
+    },
+    "workbench.colorTheme": "Red",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.sideBar.location": "right",
+    "vscode_custom_css.imports": [
+        "/Volumes/Macintosh HD/Users/gregrickaby/.vscodestyles.css"
+      ]
+}
